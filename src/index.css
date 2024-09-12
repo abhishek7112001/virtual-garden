@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.hero-image {
+    width: 300px; /* Adjust size as needed */
+    height: 350px; /* Adjust size as needed */
+    object-fit: cover;
+}
