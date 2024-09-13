@@ -31,7 +31,7 @@ const Navbar = () => {
     <div className='flex flex-col md:flex-row gap-4 md:gap-10 font-semibold text-blue-950'>
         <Link to="/" className='hover:text-blue-700 transform hover:scale-105 transition-all duration-200 text-xl'>Home</Link>
         <Link to="/about" className='hover:text-blue-700 transform hover:scale-105 transition-all duration-200 text-xl'>About</Link>
-        <Link to="/virtual" className='hover:text-blue-700 transform hover:scale-105 transition-all duration-200 text-xl'>Garden</Link>
+        <Link to="/garden" className='hover:text-blue-700 transform hover:scale-105 transition-all duration-200 text-xl'>Garden</Link>
         <Link to="/contact" className='hover:text-blue-700 transform hover:scale-105 transition-all duration-200 text-xl'>Contact Us</Link>
     </div>
 </div>

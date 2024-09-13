@@ -43,7 +43,7 @@ const Home = () => {
       {/* Virtual Garden Button */}
       <div className='flex justify-center mt-12 mb-10'>
         <Link
-          to='/virtual'
+          to='/garden'
           className='bg-blue-800 text-white px-6 py-4 text-2xl rounded-md hover:bg-blue-900 transition duration-300 flex items-center gap-2'
         >
           Have a tour
